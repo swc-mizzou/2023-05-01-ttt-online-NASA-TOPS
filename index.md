@@ -1,6 +1,3 @@
-
-
-
 ---
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
@@ -10,7 +7,7 @@ humandate: "May 1-2, 2023"    # human-readable dates for the workshop (e.g., "Fe
 humantime: "9:00-5:00 PDT"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2023-05-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2023-05-02        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Samniqueka Halsey", "Karl Bene”] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Samniqueka Halsey", "Karl Bene"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["samniquekahalsey@missouri.edu", "kbene@unm.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:  https://pad.carpentries.org/2023-05-01-ttt-online-NASA-TOPS           # optional: URL for the workshop Etherpad if there is one
